@@ -1,0 +1,51 @@
+
+[data-theme="dark"]
+{
+  background: rgb(65, 65, 65);
+  color: #fff;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #fff !important;
+}
+
+[data-theme="dark"] .bg-dark {
+  background-color: #222 !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #222 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .card-chart
+{
+  background: rgb(50, 50, 50);
+}
+
+[data-theme="dark"] .chart
+{
+  background: rgb(45, 45, 45) !important;
+  color: #fff;
+}
+
+[data-theme="dark"] .card-table
+{
+  background: rgb(50, 50, 50);
+  color: #fff;
+}
+
+[data-theme="dark"] .data-table
+{
+  background: rgb(40, 40, 40) !important;
+  color:  rgb(140, 140, 140);
+}
+
+[data-theme="dark"] tr:nth-child(even)
+{
+  background: rgb(60, 60, 60) !important;
+  color:  rgb(140, 140, 140);
+}
