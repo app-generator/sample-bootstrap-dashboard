@@ -23,6 +23,7 @@ The article explains how to use Bootstrap 5 by building a landing page and also 
 - `Offcanvas`
 - `Charts`
 - `Datatable`
+- `Dark Mode`
 
 <br />
 
