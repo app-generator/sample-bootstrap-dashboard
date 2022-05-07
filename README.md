@@ -1,6 +1,6 @@
 # [Bootstrap 5](https://getbootstrap.com)
 
-All the sample code for the written blog article [Everything important about Bootstrap 5](https://#) - Provided by `Rene-F`, provided to `AppSeed`.
+All the sample code for the written blog article [Everything important about Bootstrap 5](https://#) - Provided by `AppSeed`.
 
 The article explains how to use Bootstrap 5 by building a landing page and also a dashboard layout. The website will be built with Bootstrap 5 using HTML and CSS.
 
@@ -34,4 +34,4 @@ Bootstrap is the most popular CSS Framework for developing responsive and mobile
 <br />
 
 --- 
-[Everything important about Bootstrap 5](https://#) - Provided by `Rene-F`, Provided to `AppSeed`.
+[Everything important about Bootstrap 5](https://#) - Provided by `AppSeed`.
